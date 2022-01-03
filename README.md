@@ -17,4 +17,14 @@ ou
 
 [Visual Studio Code: https://code.visualstudio.com ](https://code.visualstudio.com)
 
+### LA documentation officiel de php a.k.a La bible
 
+[Documentation: https://www.php.net/ ](https://www.php.net/)
+
+### Un cheat sheet solid oui, solid php
+
+[Documentation: https://cheatography.com/zetura/cheat-sheets/php-syntaxe-and-fondamentaux-fr/](https://cheatography.com/zetura/cheat-sheets/php-syntaxe-and-fondamentaux-fr/)
+
+### Stack Overflow, un dernier espoir
+
+[Stack Overflow: https://stackoverflow.com ](https://stackoverflow.com)
