@@ -4,15 +4,20 @@
     // CONSTANTE 
     PHP_EOL;
 
+    
     // Chaines de caractères 
     $string_1 = "Bonjour";
+    $string_1 =  "Bonjour, $nom";
+    $string_1 =  'Bonjour, $nom';
+
+
     $string_2 = 'Bonjour';
     $string_3 = `Bonjour`;
 
     //Numeriques
     $integer  = 1;
 
-    $doble = 1.2;
+    $double = 1.2;
     
     $float = 1.2987987;
 
