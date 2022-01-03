@@ -2,7 +2,7 @@
 
 
     //Commenter son Code
-    /*Commenter son Code*/
+    /*Commenter son Code */
 
     /**
      * Decrire son code
@@ -15,6 +15,3 @@
     //Afficher un message
     echo "Hello World";
     ?>
-
-
-    echo "Hello World";
