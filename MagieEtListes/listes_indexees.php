@@ -29,8 +29,8 @@ $maListeNomée = [
     'Quatre' => 4,
 ];
 
-$maListe['Zéro']; // renvoie 0 
-$maListe['Un']; // renvoie 1 
-$maListe['Deux']; // renvoie 2 
-$maListe['Trois']; // renvoie 3 
-$maListe['Quatre']; // renvoie 4 
+$maListeNomée['Zéro']; // renvoie 0 
+$maListeNomée['Un']; // renvoie 1 
+$maListeNomée['Deux']; // renvoie 2 
+$maListeNomée['Trois']; // renvoie 3 
+$maListeNomée['Quatre']; // renvoie 4 
